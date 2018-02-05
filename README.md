@@ -1,4 +1,4 @@
-# Predicting Dementia from MRI data
+# Predicting Early Alzheimer’s Using MRI Data
 
 See from Binder below
 
